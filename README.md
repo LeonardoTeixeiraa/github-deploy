@@ -1,2 +1,2 @@
 # github-deploy
-Hello world!
+Deploy com Github Actions!
