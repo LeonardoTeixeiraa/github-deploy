@@ -23,6 +23,6 @@ jobs:
           context: .
           push: true
           tags: |
-            LeonardoTeixeira/applinda:v2.2
-            LeonardoTeixeira/applinda:latest
+            LeonardoTeixeiraa/applinda:v2.2
+            LeonardoTeixeiraa/applinda:latest
             
